@@ -1,0 +1,6 @@
+PyQt6>=6.5
+numpy>=1.24
+Pillow>=10.0
+PyMuPDF>=1.23
+pyusb>=1.2.1
+libusb-package>=1.0.26.2   ; Windows'ta libusb-1.0.dll'i otomatik bulur
